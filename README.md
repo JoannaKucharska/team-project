@@ -29,7 +29,7 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy, skontaktuj się z nami
 ## Rozwój
 
 1. **Kreator skracania linków**:
-    -[ ] Zaimplementuj funkcję skracania linków.
+    - [x] Zaimplementuj funkcję skracania linków.
     - [ ] Utwórz prosty i intuicyjny interfejs użytkownika dla tej funkcji.
 
 2. **Statystyki odwiedzin**:
