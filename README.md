@@ -30,11 +30,11 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy, skontaktuj się z nami
 
 1. **Kreator skracania linków**:
     - [x] Zaimplementuj funkcję skracania linków.
-    - [ ] Utwórz prosty i intuicyjny interfejs użytkownika dla tej funkcji.
+    - [x] Utwórz prosty i intuicyjny interfejs użytkownika dla tej funkcji.
 
 2. **Statystyki odwiedzin**:
     - [ ] Zbuduj system do tworzenia szczegółowych statystyk dla każdego skróconego linku.
-    - [ ] Statystyki powinny zawierać informacje takie jak liczba kliknięć, źródła ruchu i dowolne dane dotyczące urządzeń mobilnych.
+    - [x] Statystyki powinny zawierać informacje takie jak liczba kliknięć, źródła ruchu i dowolne dane dotyczące urządzeń mobilnych.
 
 3. **Proces rejestracyjny**:
     - [ ] Umożliw użytkownikom rejestrację na platformie, aby zarządzać swoimi skróconymi linkami.
@@ -45,7 +45,7 @@ Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy, skontaktuj się z nami
 ## Testy
 
 5. **Testy funkcji skracania linków**:
--[ ] Uruchom testy po zaimplementowaniu, aby upewnić się, że wszystko działa poprawnie.
+-[x] Uruchom testy po zaimplementowaniu, aby upewnić się, że wszystko działa poprawnie.
 
 6. **Testy statystyk**: 
 -[ ] Upewnij się, że statystyki są dokładne i aktualizacje odbywają się w czasie rzeczywistym.
